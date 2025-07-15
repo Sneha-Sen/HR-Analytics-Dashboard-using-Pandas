@@ -7,11 +7,11 @@ It analyzes employee data such as department-wise salaries, gender distribution,
 
 ## Key Insights
 
-- ✅ Average salary by department
-- ✅ Gender-wise salary comparison
-- ✅ Top 5 performers
-- ✅ Employees with more than 5 years in the company
-- ✅ Count of employees by gender & department
+- Average salary by department
+- Gender-wise salary comparison
+- Top 5 performers
+- Employees with more than 5 years in the company
+- Count of employees by gender & department
 
 ---
 
