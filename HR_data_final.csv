@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Gender,Age,Salary,JoiningDate,Experience,PerformanceScore,YearsInCompany,SalaryRank
+101,Sneha,HR,Female,26,50000,2019-04-15,5,3.5,6,8.0
+102,Riya,Finance,Female,28,60000,2018-06-12,6,4.2,7,4.0
+103,Anu,IT,Male,27,65000,2020-01-10,4,4.5,5,1.0
+104,Ritu,HR,Female,24,47000,2021-09-05,2,3.1,4,9.0
+105,Sourav,Sales,Male,30,55000,2017-03-19,7,4.0,8,6.0
+106,Rima,IT,Female,25,62000,2020-08-21,3,4.6,5,2.0
+107,Priya,Finance,Female,29,59000,2016-11-03,8,3.9,9,5.0
+108,Arjun,Sales,Male,31,53000,2018-12-25,6,4.1,7,7.0
+109,Mira,HR,Female,22,45000,2022-02-11,1,3.3,3,10.0
+110,Vikram,IT,Male,26,61000,2019-07-30,5,4.4,6,3.0
